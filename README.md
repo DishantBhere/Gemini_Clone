@@ -93,4 +93,4 @@ Upload any image:
 🌍 Multi-language UI
 
 
-### Made with 💙 by Dishant & 
+### Made with 💙 by Dishant & @ayushpimple30
