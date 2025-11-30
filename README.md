@@ -94,5 +94,5 @@ Upload any image:
 
 
 ### Made with 💙 by:
- [@DishantBhere](https://github.com/DishantBhere)  and [@AyushPimple](https://github.com/ayushpimple30)
+ [DishantBhere](https://github.com/DishantBhere)  and [AyushPimple](https://github.com/ayushpimple30)
 
