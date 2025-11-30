@@ -26,7 +26,14 @@
 ### 🤖 Live Demo
 
 
-🔗 https://geminiclone.dishantwork7.workers.dev/
+<p style="font-family: 'Playfair Display', serif; font-size: 1.1rem; margin-top: 20px;">
+  🔗 <strong>Check it out from here:</strong>
+  
+  <a href="https://geminiclone.dishantwork7.workers.dev/" target="_blank" style="color: #e67300; text-decoration: none;">
+    GEMINI CLONE
+  </a>
+</p>
+
 
 ## 🧠 Core Features
 ### 📝 1. Smart Conversational Chat
