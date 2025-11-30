@@ -93,6 +93,6 @@ Upload any image:
 🌍 Multi-language UI
 
 
-### Made with 💙 by:
+### ⏳Made with 💙 by:
  [DishantBhere](https://github.com/DishantBhere)  and [AyushPimple](https://github.com/ayushpimple30)
 
