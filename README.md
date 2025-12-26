@@ -41,10 +41,11 @@
      Instant responses with typing animation
      Handles long context
      Natural tone + improved formatting
+![Screenshot](https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/s1.png)
+![Screenshot](https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/s2.png)
 
 
-<img width="1600" height="726" alt="image" src="https://github.com/user-attachments/assets/1482683e-89c9-4645-84c5-4ab51d12511a" />
-<img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/4c31c36d-1bbd-4be2-b318-3fd94df0a736" />
+
 
 ### 📄 2. PDF Upload + Summarization
 Upload any PDF and Gemini will:
@@ -53,7 +54,7 @@ Upload any PDF and Gemini will:
      Explain concepts
      Extract important text
      Provide breakdowns & insights
-<img width="1600" height="730" alt="image" src="https://github.com/user-attachments/assets/0ef2a799-62e4-4002-add0-e8242752593d" />
+![Screenshot](https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/s3.png)
 
 ### 🎀 3. Vision AI (Image Upload)
 
@@ -65,7 +66,7 @@ Upload any image:
     Analyze charts / notes / screenshots
 
 
-<img width="1893" height="870" alt="image" src="https://github.com/user-attachments/assets/ea4d0790-7ef0-491d-bc3c-673392349c32" />
+![Screenshot](https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/s4.png)
 
 
 ### ⚙️ Tech Stack
