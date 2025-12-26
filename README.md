@@ -1,9 +1,9 @@
 # 🌌 GEMINI CLONE — Next-Gen AI Assistant
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/i1.png" width="45%" />
-  &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/i2.png" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/i1.png" width="45%" />
 </p>
 
 
