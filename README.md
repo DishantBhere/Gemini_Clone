@@ -1,6 +1,11 @@
 # 🌌 GEMINI CLONE — Next-Gen AI Assistant
-![toolxox com-iconscout-pQbqJ](https://github.com/user-attachments/assets/d2e5c619-3e7d-48f4-be6a-0103ae6bfe38) 
-![toolxox com-iconscout-pcNy0](https://github.com/user-attachments/assets/c6e19ecd-4bb6-4f75-8197-770ea2ac930f)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/i1.png" width="45%" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/DishantBhere/GEMINI_CLONE/refs/heads/main/img%20ss/i2.png" width="45%" />
+</p>
+
 
 ## 🚀 Overview
 
