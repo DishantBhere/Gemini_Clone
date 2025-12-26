@@ -34,7 +34,7 @@
 <p style="font-family: 'Playfair Display', serif; font-size: 1.1rem; margin-top: 20px;">
   🔗 <strong>Check it out from here:</strong>
   
-  <a href="https://3a44c8f9.geminiclone.pages.dev/" target="_blank" style="color: #e67300; text-decoration: none;">
+  <a href="https://geminiclonew.netlify.app/" target="_blank" style="color: #e67300; text-decoration: none;">
     GEMINI CLONE
   </a>
 </p>
