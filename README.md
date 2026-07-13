@@ -96,7 +96,7 @@ Upload any image:
 
 📧 Email your conversation
 
-🌍 Multi-language UI
+🌍 Multi-language UI & much optimized version of chat speed
 
 
 ### ⏳Made with 💙 by:
